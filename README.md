@@ -4,7 +4,7 @@
 
 1. 找到自己学习编程的目的。
 2. 学会翻墙急及善用 Google。如果不会翻，则用 Bing，总之远离百度。
-3. 按照推荐的一份教程慢慢开始，遇到不懂的再问（注册一个 GitHub 账号）。
+3. 按照推荐的一份教程慢慢开始，遇到不懂的再问（[注册一个 GitHub 账号](https://github.com/signup)）。
 
 
 ## [进行提问](../../issues/new) &nbsp;&nbsp;&nbsp; [查看已回答的问题](../../issues?q=is%3Aissue+is%3Aclosed) &nbsp;&nbsp;&nbsp; [查看wiki](../../wiki)
